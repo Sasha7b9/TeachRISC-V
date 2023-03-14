@@ -1,0 +1,30 @@
+﻿MRS V1.84更新点：
+
+【新增】 
+1.支持WCH-LinkE-1v3的下载、调试、固件升级功能
+
+【优化】
+1.更新MRS内置芯片(CH32F103/CH32F20X/CH32V003/CH32V103/CH32V20X/CH32V30X)工程模板
+2.内置的WCH-LinkUtility更新到V1.60版本
+3.优化调试时初次点击Restart按钮偶现的功能失效问题
+4.优化在高分辨率显示屏上的界面图标及启动页显示效果
+
+MRS V1.84:
+[Update Content]
+1. Support WCH-LinkE-1v3 download, debugging and firmware upgrade
+
+[Optimization]   
+1. Update the project template of MRS built-in chip (CH32F103/CH32F20X/CH32V003/CH32V103/CH32V20X/CH32V30X) 
+2. Update the built-in WCH-LinkUtility to V1.60
+3. During optimization and debugging, the occasionally abnormal enable status occurs when the Restart button is clicked for the first time
+4.Optimize the interface display effect on the high-resolution display screen
+
+
+
+
+
+
+
+
+
+
