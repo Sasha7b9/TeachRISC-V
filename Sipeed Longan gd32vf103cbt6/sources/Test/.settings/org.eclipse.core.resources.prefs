@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//Application/gd32vf103_libopt.h=GBK
+encoding//Application/main.c=GBK
+encoding//Application/systick.c=GBK
+encoding//Application/systick.h=GBK
+encoding//GD32VF103_Peripherals/Include/gd32vf103_adc.h=GBK
+encoding//GD32VF103_Peripherals/Include/gd32vf103_eclic.h=GBK
+encoding//GD32VF103_Peripherals/Source/gd32vf103_i2c.c=GBK
+encoding//GD32VF103_Peripherals/gd32vf103.h=GBK
+encoding//GD32VF103_Peripherals/system_gd32vf103.c=GBK
+encoding//GD32VF103_Peripherals/system_gd32vf103.h=GBK
+encoding//GD32VF103_START/gd32vf103c_start.c=GBK
+encoding//GD32VF103_START/gd32vf103c_start.h=GBK
+encoding/Test.launch=GBK
