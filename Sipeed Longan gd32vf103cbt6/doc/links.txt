@@ -1,0 +1,2 @@
+https://cnx-software.ru/2019/08/30/longan-nano-gd32v-risc-v-plata-dlya-razrabotki-stoimostyu-5-postavlyaetsya-s-zhk-displeem-i-korpusom/
+http://dl.sipeed.com/LONGAN/Nano/
